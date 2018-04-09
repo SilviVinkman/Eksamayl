@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\Silvi\Ülesanne1\Ülesanne1\bin\Debug\Ülesanne1.exe.config
+C:\Users\opilane\Desktop\Silvi\Ülesanne1\Ülesanne1\bin\Debug\Ülesanne1.exe
+C:\Users\opilane\Desktop\Silvi\Ülesanne1\Ülesanne1\bin\Debug\Ülesanne1.pdb
+C:\Users\opilane\Desktop\Silvi\Ülesanne1\Ülesanne1\obj\Debug\Ülesanne1.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\Silvi\Ülesanne1\Ülesanne1\obj\Debug\Ülesanne1.exe
+C:\Users\opilane\Desktop\Silvi\Ülesanne1\Ülesanne1\obj\Debug\Ülesanne1.pdb

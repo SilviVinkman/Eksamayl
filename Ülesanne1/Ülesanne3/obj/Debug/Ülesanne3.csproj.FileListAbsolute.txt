@@ -1,0 +1,5 @@
+C:\Users\opilane\Desktop\Silvi\Ülesanne1\Ülesanne3\bin\Debug\Ülesanne3.exe.config
+C:\Users\opilane\Desktop\Silvi\Ülesanne1\Ülesanne3\bin\Debug\Ülesanne3.exe
+C:\Users\opilane\Desktop\Silvi\Ülesanne1\Ülesanne3\bin\Debug\Ülesanne3.pdb
+C:\Users\opilane\Desktop\Silvi\Ülesanne1\Ülesanne3\obj\Debug\Ülesanne3.exe
+C:\Users\opilane\Desktop\Silvi\Ülesanne1\Ülesanne3\obj\Debug\Ülesanne3.pdb
